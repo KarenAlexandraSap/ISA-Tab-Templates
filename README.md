@@ -1,5 +1,4 @@
 # ISA-Tab-Templates
-# ISA-Tab Templates
 
 This repository contains general and lipidomics-specific ISA-Tab templates for organizing and managing experimental metadata.
 
