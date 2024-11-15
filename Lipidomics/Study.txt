@@ -1,0 +1,2 @@
+Study Identifier	Study Title	Study Description	Study Submission Date	Study Public Release Date
+STUDY_LIP001	Lipidomics Study Template	Lipidomics study focusing on glycerophospholipids.	2024-02-01	2024-12-31

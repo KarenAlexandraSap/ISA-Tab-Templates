@@ -1,0 +1,2 @@
+Investigation Identifier	Investigation Title	Investigation Description	Investigation Submission Date	Investigation Public Release Date
+INV_LIP001	Lipidomics Investigation Template	Investigation for a lipidomics study.	2024-02-01	2024-12-31

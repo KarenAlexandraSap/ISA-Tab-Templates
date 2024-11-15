@@ -1,0 +1,2 @@
+Study Assay File Name	Study Assay Measurement Type	Study Assay Technology Type	Study Assay Technology Platform
+a_STUDY_LIP001_assay.txt	Lipidomics profiling	Mass spectrometry	LC-MS/MS
