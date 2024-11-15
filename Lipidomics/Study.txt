@@ -1,2 +1,12 @@
-Study Identifier	Study Title	Study Description	Study Submission Date	Study Public Release Date
-STUDY_LIP001	Lipidomics Study Template	Lipidomics study focusing on glycerophospholipids.	2024-02-01	2024-12-31
+STUDY
+Study Identifier	STUDY_LIPIDOMICS
+Study Title	Lipidomics Study Template
+Study Description	An example study for lipidomics using LC-MS/MS.
+Study Submission Date	2024-11-01
+Study Public Release Date	2025-11-01
+Study File Name	s_STUDY_LIPIDOMICS.txt
+
+STUDY DESIGN DESCRIPTORS
+Study Design Type	Lipidomics Study
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000889
+Study Design Type Term Source REF	EFO

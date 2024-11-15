@@ -1,2 +1,22 @@
-Investigation Identifier	Investigation Title	Investigation Description	Investigation Submission Date	Investigation Public Release Date
-INV001	General Investigation Template	A generic ISA investigation template.	2024-01-01	2024-12-31
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	NCBITAXON	OBI	EFO	MS	CHMO
+Term Source File	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/OBI	http://www.ebi.ac.uk/efo	http://data.bioontology.org/ontologies/MS	http://data.bioontology.org/ontologies/CHMO
+Term Source Version	1	2.1	3.0	5.2	6.1
+
+INVESTIGATION
+Investigation Identifier	INV0001
+Investigation Title	General Investigation Example
+Investigation Description	A generic example for ISA-Tab templates.
+Investigation Submission Date	2024-11-01
+Investigation Public Release Date	2025-11-01
+Comment[Created With Configuration]	General ISA Creator
+Comment[Last Opened With Configuration]	General ISA Editor
+
+INVESTIGATION CONTACTS
+Investigation Person Last Name	Doe
+Investigation Person First Name	Jane
+Investigation Person Email	j.doe@example.com
+Investigation Person Affiliation	Example University
+Investigation Person Roles	Principal Investigator
+Investigation Person Roles Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000103
+Investigation Person Roles Term Source REF	OBI

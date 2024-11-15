@@ -1,22 +1,26 @@
-# ISA-Tab-Templates
+# ISA-Tab Templates Repository
 
-This repository contains general and lipidomics-specific ISA-Tab templates for organizing and managing experimental metadata.
+This repository contains ISA-Tab templates for general and lipidomics-specific studies. These templates are designed to guide researchers in organizing metadata for experiments in a standardized format.
 
-## Folders
-- **General/**: Templates for general ISA-Tab structures.
-- **Lipidomics/**: Templates specific to lipidomics studies.
+## Folder Structure
+- **General/**: Templates for generic ISA-Tab use.
+- **Lipidomics/**: Templates with additional fields specific to lipidomics.
 
-## Usage
-1. Navigate to the appropriate folder.
-2. Use the `Investigation.txt`, `Study.txt`, and `Assay.txt` files as templates for your ISA-Tab submissions.
+## How to Use
+1. Navigate to the appropriate folder (`General/` or `Lipidomics/`).
+2. Download the `Investigation.txt`, `Study.txt`, and `Assay.txt` files.
+3. Fill out the templates with your study's data, following the examples provided.
 
-## File Descriptions
+## Template Details
 ### General Templates
-- **Investigation.txt**: General ISA investigation template.
-- **Study.txt**: General ISA study template.
-- **Assay.txt**: General ISA assay template.
+- **Investigation.txt**: A basic investigation file structure.
+- **Study.txt**: A basic study file structure.
+- **Assay.txt**: A basic assay file structure.
 
 ### Lipidomics Templates
-- **Investigation.txt**: Lipidomics-specific ISA investigation template.
-- **Study.txt**: Lipidomics-specific ISA study template.
-- **Assay.txt**: Lipidomics-specific ISA assay template.
+- **Investigation.txt**: Tailored for lipidomics studies.
+- **Study.txt**: Includes lipidomics-specific design descriptors.
+- **Assay.txt**: Pre-filled with lipidomics measurement and technology types.
+
+## Contact
+For questions or feedback, please open an issue in this repository.
