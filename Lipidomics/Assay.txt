@@ -1,9 +1,0 @@
-ASSAY
-Assay File Name	a_ASSAY_LIPIDOMICS.txt
-Study Assay Measurement Type	lipid profiling
-Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366
-Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	LC-MS/MS
-Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470
-Study Assay Technology Type Term Source REF	OBI
-Study Assay Technology Platform	Agilent 6495C Triple Quadrupole LC/MS

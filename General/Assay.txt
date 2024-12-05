@@ -1,9 +1,0 @@
-ASSAY
-Assay File Name	a_ASSAY0001.txt
-Study Assay Measurement Type	metabolite profiling
-Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366
-Study Assay Measurement Type Term Source REF	OBI
-Study Assay Technology Type	mass spectrometry
-Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470
-Study Assay Technology Type Term Source REF	OBI
-Study Assay Technology Platform	Waters Xevo G2-XS QTOF
