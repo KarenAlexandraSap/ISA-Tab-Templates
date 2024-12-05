@@ -1,0 +1,93 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI	NCIT	MA	EFO	CHMO	MTBLS	MS				N/A
+Term Source File	http://data.bioontology.org/ontologies/OBI					https://www.ebi.ac.uk/metabolights/		http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/ncit.owl	http://purl.obolibrary.org/obo/ncit.owl
+Term Source Version	29					1		18.10e	18.10e	18.10e	18.10e
+Term Source Description	Ontology for Biomedical Investigations					Metabolights Ontology		NCI Thesaurus OBO Edition	NCI Thesaurus OBO Edition	NCI Thesaurus OBO Edition	NCI Thesaurus OBO Edition
+INVESTIGATION
+Investigation Identifier	MTBLS4082
+Investigation Title	Investigation
+Investigation Description	Created using the MetaboLights Online Editor (MOE)
+Investigation Submission Date	06/01/2022
+Investigation Public Release Date	2023-11-15
+Comment[Created With Configuration]	MetaboLightsConfig20150707
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS4082
+Study Title	Angiopoietin-like 4 governs diurnal lipoprotein lipase activity in brown adipose tissue.
+Study Description	<p><strong>OBJECTIVE: </strong>Brown adipose tissue (BAT) burns fatty acids (FAs) to produce heat, and shows diurnal oscillation in glucose and triglyceride (TG)-derived FA-uptake, peaking around wakening. Here we aimed to gain insight in the diurnal regulation of metabolic BAT activity.</p><p><strong>METHODS: </strong>RNA-sequencing, chromatin immunoprecipitation (ChIP)-sequencing and lipidomics analyses were performed on BAT samples of wild type C57BL/6J mice collected at 3-h intervals throughout the day. Knockout and overexpression models were used to study causal relationships in diurnal lipid handling by BAT.</p><p><strong>RESULTS: </strong>We identified pronounced enrichment of oscillating genes involved in extracellular lipolysis in BAT, accompanied by oscillations of FA and monoacylglycerol content. This coincided with peak lipoprotein lipase (Lpl) expression, and was predicted to be driven by peroxisome proliferator-activated receptor gamma (PPARγ) activity. ChIP-sequencing for PPARγ confirmed oscillation in binding of PPARγ to Lpl. Of the known LPL-modulators, angiopoietin-like 4 (Angptl4) showed the largest diurnal amplitude opposite to Lpl, and both Angptl4 knockout and overexpression attenuated oscillations of LPL activity and TG-derived FA-uptake by BAT.</p><p><strong>CONCLUSIONS: </strong>Our findings highlight involvement of PPARγ and a crucial role of ANGPTL4 in mediating the diurnal oscillation of TG-derived FA-uptake by BAT, and imply that time of day is essential when targeting LPL activity in BAT to improve metabolic health.</p>
+Study Submission Date	06/01/2022
+Study Public Release Date	2023-11-15
+Study File Name	s_MTBLS4082.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	circadian rhythm	Peroxisome Proliferator-Activated Receptor Gamma	Lipidomics	Transcriptomics	Lipoprotein Lipase	ANGPTL4 Gene	ultra-performance liquid chromatography-mass spectrometry	untargeted metabolites	high-resolution mass spectrometry
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0004354	http://purl.obolibrary.org/obo/NCIT_C34077	http://purl.obolibrary.org/obo/NCIT_C153193	http://purl.obolibrary.org/obo/NCIT_C153189	http://purl.obolibrary.org/obo/NCIT_C104616	http://purl.obolibrary.org/obo/NCIT_C96322	http://purl.obolibrary.org/obo/CHMO_0000715	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279	http://purl.obolibrary.org/obo/CHMO_0000498
+Study Design Type Term Source REF	EFO	NCIT	NCIT	NCIT	NCIT	NCIT	CHMO	MTBLS	CHMO
+STUDY PUBLICATIONS
+Study PubMed ID	35413480
+Study Publication DOI	10.1016/j.molmet.2022.101497
+Study Publication Author List	van Eenige R, In Het Panhuis W, Schönke M, Jouffe C, Devilee TH, Siebeler R, Streefland TCM, Sips HCM, Pronk ACM, Vorderman RHP, Mei H, van Klinken JB, van Weeghel M, Uhlenhaut NH, Kersten S, Rensen PCN, Kooijman S.
+Study Publication Title	Angiopoietin-like 4 governs diurnal lipoprotein lipase activity in brown adipose tissue.
+Study Publication Status	Published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+STUDY FACTORS
+Study Factor Name	Zeitgeber time
+Study Factor Type	timepoint
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000724
+Study Factor Type Term Source REF	EFO
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS4082_LC-MS_alternating_reverse-phase_metabolite_profiling.txt	a_MTBLS4082_LC-MS_alternating_normal-phase_metabolite_profiling.txt
+Study Assay Measurement Type	metabolite profiling	metabolite profiling
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366	http://purl.obolibrary.org/obo/OBI_0000366
+Study Assay Measurement Type Term Source REF	OBI	OBI
+Study Assay Technology Type	mass spectrometry	mass spectrometry
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI	OBI
+Study Assay Technology Platform	Liquid Chromatography MS - alternating - reverse phase	Liquid Chromatography MS - alternating
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type Term Accession Number						
+Study Protocol Type Term Source REF						
+Study Protocol Description	<p>All mice were housed under standard conditions with a 12 h:12 h light:dark schedule at 22 °C with <em>ad libitum</em> access to a chow diet (Rat and Mouse No.3 Breeding, SDS, Horley, United Kingdom) and water. All mouse experiments were conducted in accordance with the Institute for Laboratory Animal Research Guide for the Care and Use of Laboratory Animals and were approved by the National Committee for Animal experiments.</p><p><br></p><p>Non-fasted <strong>male C57BL/6J mice</strong> (Charles River Laboratories, Wilmington, MA, USA; 10 wk old) were killed by CO2 inhalation at <strong>8 time points</strong> over a 24-h period (corresponding to ZT0, ZT3, ZT6, ZT9, ZT12, ZT15, ZT18 and ZT21; n=4 per time point). Interscapular brown adipose tissue (<strong>iBAT</strong>) was collected and snap-frozen.</p>	<p>Lipids were extracted as previously described<strong>[1][2]</strong>. Briefly, BAT was homogenized in ultra-pure ice-cold water using the TissueLyser system (Qiagen, Hilden, Germany). Subsequently, the homogenates were sonicated in an ice-cold water bath for 10&nbsp;min. Protein concentrations were determined using the BCA protein assay kit (ThermoFisher Scientific, Waltham, MA, USA). Lipids were extracted using a single-phase extraction. In brief, 1.5&nbsp;mL of <strong>chloroform/methanol (1:1, v/v)</strong> and an <strong>internal standards mixture</strong> specifically adjusted to BAT (details below) was added to the tissue homogenate (the equivalent of 1&nbsp;mg protein). Subsequently, the mixture was sonicated in a water bath for 5&nbsp;min, followed by centrifugation at 4 °C (16,000 x g for 5&nbsp;min). The liquid phase was transferred to a glass vial and evaporated under a stream of nitrogen at 60 °C. Subsequently, the residue was dissolved in 150 µL of <strong>chloroform/methanol</strong> (9:1, v/v).</p><p><br></p><p>The following amounts of <strong>internal standards</strong> dissolved in 1:1 (v/v) <strong>chloroform/methanol</strong> were added to each sample: bis(monoacylglycero)phosphate BMP (14:0) 2, (0.2&nbsp;nmol); ceramide-1-phosphate C1P (d18:1/12:0), (0.127&nbsp;nmol); D7-cholesteryl ester CE(16:0), (2&nbsp;nmol);&nbsp;ceramide&nbsp;Cer(d18:1/12:0), (0.118&nbsp;nmol); ceramide Cer(d18:1/25:0), (0.130&nbsp;nmol);&nbsp;cardiolipin&nbsp;CL(14:0) 4, (0.1&nbsp;nmol);&nbsp;diacylglycerol&nbsp;DAG(14:0) 2, (0.5&nbsp;nmol); glucose ceramide GlcCer (d18:1/12:0), (0.126&nbsp;nmol); lactose ceramide LacCer (d18:1/12:0), (0.129&nbsp;nmol); lysophosphatidicacid LPA(14:0), (0.1&nbsp;nmol);&nbsp;lysophosphatidylcholine&nbsp;LPC (14:0), (0.5&nbsp;nmol);&nbsp;lysophosphatidylethanolamine&nbsp;LPE (14:0), (0.1&nbsp;nmol); lysophosphatidylglycerol LPG(14:0), (0.02&nbsp;nmol);&nbsp;phosphatidic acid&nbsp;PA (14:0) 2, (0.5&nbsp;nmol);&nbsp;phosphatidylcholine&nbsp;PC (14:0) 2, (2&nbsp;nmol);&nbsp;phosphatidylethanolamine&nbsp;PE (14:0)2, (0.5&nbsp;nmol);&nbsp;phosphatidylglycerol&nbsp;PG (14:0) 2, (0.1&nbsp;nmol);&nbsp;phosphatidylinositol&nbsp;PI (8:0) 2, (0.5&nbsp;nmol); phosphatidylserine&nbsp;PS (14:0) 2, (5&nbsp;nmol); sphinganine&nbsp;1-phosphate S1P (d17:0), (0.124&nbsp;nmol); sphinganine-1-phosphate S1P (d17:1), (0.125&nbsp;nmol); ceramide&nbsp;phosphocholines&nbsp;SM (d18:1/12:0), (2.129&nbsp;nmol); sphingosine&nbsp;SPH (d17:0), (0.125&nbsp;nmol); sphingosine SPH (d17:1), (0.125&nbsp;nmol); triacylglycerol TAG (14:0)2, (0.5&nbsp;nmol).&nbsp;</p><p><br></p><p><strong>Refs:</strong></p><p><strong>[1] </strong>Held, N.M., Buijink, M.R., Elfrink, H.L., Kooijman, S., Janssens, G.E., Luyf, A.C., Pras-Raves, M.L., Vaz, F.M., Michel, S., Houtkooper, R.H. and van Weeghel, M., 2021. Aging selectively dampens oscillation of lipid abundance in white and brown adipose tissue.&nbsp;<em>Scientific reports</em>,&nbsp;<em>11</em>(1), p.5932. doi:10.1038/s41598-021-85455-4. PMID:&nbsp;33723320.</p><p><strong>[2] </strong>Held, N.M., Kuipers, E.N., van Weeghel, M., van Klinken, J.B., Denis, S.W., Lombès, M., Wanders, R.J., Vaz, F.M., Rensen, P.C., Verhoeven, A.J. and Boon, M.R., 2018. Pyruvate dehydrogenase complex plays a central role in brown adipocyte energy expenditure and fuel utilization during short-term beta-adrenergic activation.&nbsp;<em>Scientific reports</em>,&nbsp;<em>8</em>(1), p.9562. doi:10.1038/s41598-018-27875-3. PMID:&nbsp;29934543</p>	<p>Lipids were analyzed using a <strong>Thermo Scientific Ultimate 3000 HPLC</strong>. For <span style='font-style: normal; color: rgb(54, 54, 54); font-weight: 700;'>reversed phase </span>separation, 2 μL of each sample was injected onto a <span style='font-style: normal; color: rgb(54, 54, 54); font-weight: 700;'>ACQUITY UPLC HSS T3 (1.8 µm, 2.1 mm x 150 mm; Waters)</span> column, with temperature at 60°C. Mobile phase consisted of (A) 4:6 (v/v) methanol:water and B 1:9 (v/v) methanol:isopropanol, both containing 0.1% formic acid and 10 mmol/L ammonia. Using a flow rate of 0.4 mL/min, the LC gradient consisted of: 0 min, 100% A; 1 min, 80% A; 16 min, 0% A; 16-20 min, 0% A; 20.1 min, 100% A; 20.1-21 min, 100% A.</p><p><br></p><p>For <strong style='font-style: inherit;'>normal phase </strong>separation, 2 μL of each sample were injected onto a <strong style='font-style: inherit;'>Luna silica (5 µm, 2 mm x 250 mm, 100Å; Phenomenex) </strong>column, with temperature at 25 °C. Mobile phase consisted of (A) 85:15 (v/v) methanol:water containing 0.0125% formic acid and 3.35 mmol/L ammonia and (B) 97:3 (v/v) chloroform:methanol containing 0.0125% formic acid. Using a flow rate of 0.3 mL/min, the LC gradient consisted of: 0-1 min, 10% A; 4 min, 20% A; 12 min, 85% A; 12.1 min, 100% A; 12.1-14 min, 100% A; 14.1 min, 10% A; 14.1-15 min, 10% A.</p><p><br></p>	<p>MS data were acquired with a <strong>Q Exactive Plus Orbitrap mass spectrometer</strong> using<strong> </strong>negative and positive ionization using continuous scanning over the range of <strong>150 to 2000 </strong><strong style='color: rgb(54, 54, 54);'>m/z</strong><span style='color: rgb(54, 54, 54);'>.</span></p>	<p>Data were analyzed using an in-house developed metabolomics pipeline written in the <a href='http://ww.r-project.org' rel='noopener noreferrer' target='_blank'><strong>R</strong></a> programming language. All reported lipids were normalized to corresponding internal standards according to lipid class.</p>	<p>Lipid identification has been based on a combination of accurate mass, (relative) retention times, fragmentation spectra and the injection of relevant standards.</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	van Eenige	In het Panhuis	Schönke	Jouffe	Devilee	Siebeler	Streefland	Sips	Pronk	Vorderman	Mei	van Klinken	van Weeghel	Uhlenhaut	Kersten	Rensen	Kooijman
+Study Person First Name	Robin	Wietse	Milena	Céline	Thomas H	Ricky	Trea C M	Hetty C M	Amanda C M	Ruben H P	Hailiang	Jan Bert	Michel	Nina H	Sander	Patrick C N	Sander
+Study Person Mid Initials																	
+Study Person Email																	
+Study Person Phone																	
+Study Person Fax																	
+Study Person Address																	
+Study Person Affiliation																	
+Study Person Roles	first author	first author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author	Author
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/MS_1002034	http://purl.obolibrary.org/obo/MS_1002034	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781	http://purl.obolibrary.org/obo/NCIT_C42781
+Study Person Roles Term Source REF	MS	MS															
