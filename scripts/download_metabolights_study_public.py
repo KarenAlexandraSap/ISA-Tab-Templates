@@ -6,11 +6,11 @@ import zipfile
 API_TOKEN = os.getenv("METABOLIGHTS_API_TOKEN")
 if not API_TOKEN:
     raise ValueError("Please set the METABOLIGHTS_API_TOKEN environment variable.")
-STUDY_ID = "MTBLS2159"
+STUDY_ID = "MTBLS1693"
 BASE_URL = f"https://www.ebi.ac.uk/metabolights/ws/studies/{STUDY_ID}/download?file=metadata"
 
 # Directory to save the downloaded files
-output_dir = f"~/CFM_ISA/ISA-Tab-Templates/{STUDY_ID}"
+output_dir = f"~/CFM_ISA/ISA-Tab-Templates/metadata{STUDY_ID}"
 output_dir = os.path.expanduser(output_dir)
 os.makedirs(output_dir, exist_ok=True)
 
